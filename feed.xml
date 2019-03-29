@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <title>test</title>
+    <link href="https://catman85.github.io/publii-gallery/feed.xml" rel="self" />
+    <link href="https://catman85.github.io/publii-gallery" />
+    <updated>2019-03-29T21:47:30+02:00</updated>
+    <author>
+        <name>admin</name>
+    </author>
+    <id>https://catman85.github.io/publii-gallery</id>
+
+    <entry>
+        <title>Hearts</title>
+        <author>
+            <name>admin</name>
+        </author>
+        <link href="https://catman85.github.io/publii-gallery/baby.html"/>
+        <id>https://catman85.github.io/publii-gallery/baby.html</id>
+
+        <updated>2019-03-29T21:45:42+02:00</updated>
+            <summary></summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://catman85.github.io/publii-gallery/media/posts/2/16_fairytail.jpg" alt="" />
+                <div class="gallery"   >
+<figure class="gallery__item"><a href="https://catman85.github.io/publii-gallery/media/posts/2/gallery/2heart14c.jpg" ><img src="https://catman85.github.io/publii-gallery/media/posts/2/gallery/2heart14c-thumbnail.jpg" alt="" width="768" height="922"></a></figure>
+<figure class="gallery__item"><a href="https://catman85.github.io/publii-gallery/media/posts/2/gallery/3heart14_c.jpg" ><img src="https://catman85.github.io/publii-gallery/media/posts/2/gallery/3heart14_c-thumbnail.jpg" alt="" width="768" height="922"></a></figure>
+<figure class="gallery__item"><a href="https://catman85.github.io/publii-gallery/media/posts/2/gallery/4heart14_c.jpg" ><img src="https://catman85.github.io/publii-gallery/media/posts/2/gallery/4heart14_c-thumbnail.jpg" alt="" width="768" height="922"></a></figure>
+</div>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Exhibition</title>
+        <author>
+            <name>admin</name>
+        </author>
+        <link href="https://catman85.github.io/publii-gallery/eye.html"/>
+        <id>https://catman85.github.io/publii-gallery/eye.html</id>
+
+        <updated>2019-03-29T21:45:56+02:00</updated>
+            <summary></summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://catman85.github.io/publii-gallery/media/posts/1/22_fairytail.jpg" alt="" />
+                <div class="gallery"   >
+<figure class="gallery__item"><a href="https://catman85.github.io/publii-gallery/media/posts/1/gallery/ARIANA40X40_c.jpg" ><img src="https://catman85.github.io/publii-gallery/media/posts/1/gallery/ARIANA40X40_c-thumbnail.jpg" alt="" width="768" height="768"></a></figure>
+<figure class="gallery__item"><a href="https://catman85.github.io/publii-gallery/media/posts/1/gallery/ARTEMIS_30X40_C.jpg" ><img src="https://catman85.github.io/publii-gallery/media/posts/1/gallery/ARTEMIS_30X40_C-thumbnail.jpg" alt="" width="768" height="1024"></a></figure>
+<figure class="gallery__item"><a href="https://catman85.github.io/publii-gallery/media/posts/1/gallery/BAGELHS_24X30-MED.jpg" ><img src="https://catman85.github.io/publii-gallery/media/posts/1/gallery/BAGELHS_24X30-MED-thumbnail.jpg" alt="" width="768" height="960"></a></figure>
+</div>
+            ]]>
+        </content>
+    </entry>
+</feed>
