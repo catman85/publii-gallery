@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <title>test</title>
+    <title>Anthia</title>
     <link href="https://catman85.github.io/publii-gallery/feed.xml" rel="self" />
     <link href="https://catman85.github.io/publii-gallery" />
-    <updated>2019-03-29T22:11:03+02:00</updated>
+    <updated>2019-03-29T22:23:05+02:00</updated>
     <author>
         <name>admin</name>
     </author>
@@ -17,7 +17,7 @@
         <link href="https://catman85.github.io/publii-gallery/baby.html"/>
         <id>https://catman85.github.io/publii-gallery/baby.html</id>
 
-        <updated>2019-03-29T22:10:39+02:00</updated>
+        <updated>2019-03-29T22:13:29+02:00</updated>
             <summary></summary>
         <content type="html">
             <![CDATA[

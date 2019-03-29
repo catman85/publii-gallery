@@ -1,6 +1,6 @@
 {
     "version": "https://jsonfeed.org/version/1",
-    "title": "test",
+    "title": "Anthia",
     "description": "",
     "home_page_url": "https://catman85.github.io/publii-gallery",
     "feed_url": "https://catman85.github.io/publii-gallery/feed.json",
@@ -22,7 +22,7 @@
             "tags": [
             ],
             "date_published": "2019-03-28T22:21:13+02:00",
-            "date_modified": "2019-03-29T22:10:39+02:00"
+            "date_modified": "2019-03-29T22:13:29+02:00"
         },
         {
             "id": "https://catman85.github.io/publii-gallery/eye.html",
